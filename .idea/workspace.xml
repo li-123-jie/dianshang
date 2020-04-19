@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb0abee-cab7-404e-968e-1840b224e31c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/java/cn/tedu/HiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/java/cn/tedu/StarterClient01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/target/classes/cn/tedu/HiController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client01/target/classes/cn/tedu/StarterClient01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/HiControlller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/StarterClient02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/src/test/java/cn/tedu/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/target/classes/cn/tedu/HiControlller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/target/classes/cn/tedu/StarterClient02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-client02/target/test-classes/cn/tedu/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-gateway/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -31,6 +18,7 @@
     <ignored path="$PROJECT_DIR$/spring-cloud-eureka-server01/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client01/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client02/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-gateway/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,38 +26,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-server01/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client01/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/java/cn/tedu/StarterClient01.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/StarterClient02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="141">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,9 +73,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-gateway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-gateway/src/main/java/cn/tedu/StarterGateWay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-gateway/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/HiControlller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="200">
               <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -126,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/java/cn/tedu/HiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="175">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#251#252#0" expanded="true" />
@@ -177,6 +167,10 @@
         <option value="$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/StarterClient02.java" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/HiControlller.java" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-gateway/src/main/java/cn/tedu/App.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-gateway/src/main/java/cn/tedu/StarterGateWay.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-gateway/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -214,97 +208,6 @@
             <path>
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tedu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tedu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-client02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-eureka-server01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -400,7 +303,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587205472065</updated>
       <workItem from="1587205475744" duration="8687000" />
-      <workItem from="1587261708814" duration="192000" />
+      <workItem from="1587261708814" duration="1856000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1587207021938</created>
@@ -423,14 +326,22 @@
       <option name="project" value="LOCAL" />
       <updated>1587214288374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3">
+      <created>1587261970034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587261970034</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8687000" />
+    <option name="totallyTimeSpent" value="10543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="492" y="4" width="695" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31181103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -441,7 +352,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32933104" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3327616" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34305316" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -473,7 +384,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-server01/pom.xml">
@@ -549,28 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/StarterClient02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/HiControlller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -580,13 +470,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client01/src/main/java/cn/tedu/HiController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="175">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#251#252#0" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/HiControlller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client02/src/main/java/cn/tedu/StarterClient02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-gateway/src/main/java/cn/tedu/StarterGateWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>

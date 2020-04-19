@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-eureka-server01" />
+        <module name="spring-cloud-gateway" />
         <module name="spring-cloud-eureka-client01" />
         <module name="spring-cloud-eureka-client02" />
       </profile>

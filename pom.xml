@@ -11,6 +11,7 @@
     <module>spring-cloud-eureka-server01</module>
     <module>spring-cloud-eureka-client01</module>
     <module>spring-cloud-eureka-client02</module>
+    <module>spring-cloud-gateway</module>
   </modules>
   <packaging>pom</packaging>
 
